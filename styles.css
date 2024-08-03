@@ -1,0 +1,221 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+}
+
+/*   DEFINED TOP, MID, AND BOTTOM BARS  */
+
+.top-bar, .mid-bar, .bottom-bar {
+    height: 40px;
+    width: 1000px;
+    background-color: grey;
+    color: white;
+    text-align: left;
+    float: left;
+}
+
+.mainbox{
+    width:1000px;
+    margin: 20px;
+}
+
+a:link{
+    color:white;
+    text-decoration:none;
+}
+
+a:visited{
+    color:white;
+    text-decoration:none;
+}
+
+a:hover{
+    color:grey;
+    background-color: white;
+    text-decoration:none;
+}
+
+.headerbox1{
+    margin-bottom: 5px;
+    height: 20px;
+    font-size: 15px;
+    font-weight: 700;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif ;
+    float:left;
+}
+
+.headerbox2{
+    margin-bottom: 5px;
+    color: black;
+    height: 20px;
+    font-weight: 700;
+    font-size: 15px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif ;
+    float:left;
+}
+.main {
+    display: run-in;     /* CAME UP AS AN OPTION AND MADE IT WORK!! */
+}
+
+.content-area {
+    width: 1000px;
+}
+
+                    /*      TABLE ADJUSTMENTS   */
+table {
+    width: 1000px;
+    border: 2px solid white;
+}
+
+table td, table th {
+    border: 2px solid white;
+    text-align: left;
+    width: 115px;
+    height: 145px;
+}
+.purpbox{
+    background-color: blueviolet;
+    font-weight: 600;  /*    LOOKS BOLDER  */
+    vertical-align: bottom;
+}
+
+.purpbox a:link{
+    color:white;
+    text-decoration:none;
+}
+
+.purpbox a:visited{
+    color:white;
+    text-decoration:none;
+}
+
+.purpbox a:hover{
+    color:blueviolet;
+    background-color: white;
+    text-decoration:none;
+}
+
+img {
+    width: 120px; /* CONTROLS SIZE OF IMAGES */
+    height: 150px;
+}
+
+#doublewide img{  /*USED ID TAGS TO DO MULTIPLE PICS   */
+    width:240px;
+}
+
+#doublelong img{
+    height: 300px;
+}
+
+.info-section {
+    width:1000px;
+    height: 200px;
+    padding-top: 30px;
+    background-color: lightgray;
+    text-align: left;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.info-section a:link{
+    color:white;
+    text-decoration:none;
+}
+
+.info-section a:visited{
+    color:white;
+    text-decoration:none;
+}
+
+.info-section a:hover{
+    color:lightgray;
+    background-color: white;
+    text-decoration:none;
+}
+
+.textbox{                   /*    MADE 4 BOXES EQUAL SIZE   */
+    font-family: 'Times New Roman', Times, serif;
+    font-size: smaller;
+    width: 220px;
+    height: 150px;
+    padding-left: 8px;
+    float: left;
+    margin-right: 10px;
+}
+
+.button{                         /*    MY ATTEMPT AT A BUTTON  */
+    height : 33px;
+    width : 100px;
+    padding-left: 10px;
+    padding-top: 1px;
+    background-color: grey;
+    border-radius: 2px;
+    font-size: smaller;
+    border: 1px black;
+}
+
+.button a:link{
+    color:white;
+    text-decoration:none;
+}
+
+.button a:visited{
+    color:white;
+    text-decoration:none;
+}
+
+.button a:hover{
+    color:grey;
+    background-color: white;
+    text-decoration:none;
+}
+
+.boldtext{
+    font-weight: 700;
+}
+
+.bottom {            
+    width: 220px;
+    height: 150px;
+    margin-left: 20px;
+    margin-right: 15px;
+    float: left;
+}
+
+.bottom2 {
+    width: 220px;
+    height: 150px;
+    margin-left: 20px;
+    margin-right: 20px;
+    float: left;
+}
+
+.bottom3{
+    width: 220px;
+    margin-right: 12px;
+    margin-left: 15px;
+    float:right      /*    MADE IT EASIER TO GO RIGHT HERE    */
+
+}
+
+.bottom img{
+    width: 220px;
+    height: 150px;
+}
+
+.bottom2 img{
+    width: 220px;
+    height: 150px;
+}
+
+.bottom3 img{
+    width: 220px;
+
+}
+
+

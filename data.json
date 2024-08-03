@@ -1,0 +1,37 @@
+[
+  {
+      "name": "John Baker",
+      "age": 30,
+      "isStudent": false,
+      "courses": ["Math", "Science"],
+      "score": 88.5
+  },
+  {
+      "name": "Jane Smith",
+      "age": 25,
+      "isStudent": true,
+      "courses": ["Art", "History"],
+      "score": 91.2
+  },
+  {
+      "name": "Mike Johnson",
+      "age": 35,
+      "isStudent": false,
+      "courses": ["Economics", "Physics"],
+      "score": 79.8
+  },
+  {
+      "name": "Emily Davis",
+      "age": 22,
+      "isStudent": true,
+      "courses": ["Biology", "Chemistry"],
+      "score": 94.3
+  },
+  {
+      "name": "William Brown",
+      "age": 28,
+      "isStudent": true,
+      "courses": ["Computer Science", "Statistics"],
+      "score": 82.7
+  }
+]
