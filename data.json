@@ -1,5 +1,19 @@
 [
   {
+      "name": "John Wright",
+      "age": 50,
+      "isStudent": false,
+      "courses": ["Math", "Chemistry"],
+      "score": 94.5
+  },
+  {
+      "name": "Samual Baker",
+      "age": 38,
+      "isStudent": false,
+      "courses": ["Geography", "Science"],
+      "score": 87.5
+  },
+  {
       "name": "John Baker",
       "age": 30,
       "isStudent": false,
